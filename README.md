@@ -1,5 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=45F700&center=true&vCenter=true&width=531&lines=Frontend+Developer+%26%26+UI+&+UX+Designer;Always+learning+new+things)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I'm Frontend Developer And UI & UX Designer
 
 
 ## 🌐 Socials:
